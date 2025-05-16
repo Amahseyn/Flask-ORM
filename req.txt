@@ -1,0 +1,7 @@
+flask 
+flask-pymongo 
+flask-login 
+flask-bcrypt 
+flask-migrate
+flask-sqlalchemy
+Flask-JWT-Extended
